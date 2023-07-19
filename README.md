@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @o-eissa
-- You will find here some of my projects
-- Also some of the competitve problems I worked on solving
+# Hi, I'm Omar Eissa and Welcome to my GitHub Profile!
 
-<!---
-FONS127/FONS127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm a passionate software engineer. On this page, you'll find some of the sample code and drafts that I've been working on recently, as well my working projects and packages.
+
+## What you'll find here
+
+- 🤖 **Sample code:** You'll find some examples of the code I've been working on recently. These are mostly just experiments and prototypes, but I hope you find them interesting!
+- 🎨 **Fun projects:** In addition to the code samples, I like to work on some fun projects that let me flex my creative muscles. Expect to find some silly, whimsical, and just plain weird stuff here!
+- 📦 **Working projects and packages:** I also have a few working projects and packages that I've created and maintain. Like [Coast Guard Search](https://github.com/o-eissa/CoastGuard-Search-Project), [OneDrive client for Go](https://github.com/o-eissa/Onedrive).
+- 🌍 **Open source contributions:** Some forked open source repos I've been contributing to.
+
+## Get in touch
+
+If you have any questions or just want to chat about coding, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/omar-eissaanwar/). I'm always happy to connect with fellow developers and share ideas!
+
+Thanks for stopping by – I hope you enjoy exploring my GitHub profile!
